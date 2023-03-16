@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/222/671/776/paper-mario-video-games-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    }
+    .Início{
+        text-align: end;
+        font-size: 40px;
+        box-sizing: content-box;
+        border: 5px auto green;
+        border-style: dashed;
+        width: 100px;
+        right: auto;
+    }
